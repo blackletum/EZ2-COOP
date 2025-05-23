@@ -35,6 +35,7 @@ Please also consider working on the linked repositories to make this project bet
 Things like sprays don't work at the moment. 
 X is bound by default for voice chat (yes voicechat works!) 
 Y is bound for chat which also works! 
+I tried to replace the icon for within Steam and when you launch the mod itself, but I can't quite figure it out for whatever reason. Help would be appreciated. 
 
 I need to figure out how to change the "Start Server" dialog to show EZ2COOP as the name and to remove mounted HL2 maps that could cause a good bit of issues if you try to play (or just dumb ones like backgrounds)
 
