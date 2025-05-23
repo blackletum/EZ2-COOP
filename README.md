@@ -29,3 +29,15 @@ So yeah the `OPEN_THIS_FIRST.bat` file will find your EZ2 folder and change your
 If you have any changes that you'd like to make, please make a PR! My batch file change is a gigantic mess so I'd like that and any other changes that could make this a better experience.
 
 Please also consider working on the linked repositories to make this project better for everyone! 
+
+# Some notes
+
+Things like sprays don't work at the moment. 
+X is bound by default for voice chat (yes voicechat works!) 
+Y is bound for chat which also works! 
+
+I need to figure out how to change the "Start Server" dialog to show EZ2COOP as the name and to remove mounted HL2 maps that could cause a good bit of issues if you try to play (or just dumb ones like backgrounds)
+
+And uhh
+
+have fun!
