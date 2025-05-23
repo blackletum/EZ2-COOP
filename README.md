@@ -40,6 +40,24 @@ If you have any changes that you'd like to make, please make a PR! My batch file
 
 Please also consider working on the linked repositories to make this project better for everyone! 
 
+# How do I host?
+
+Oh lord, have fun with that. 
+
+I'll try to write up proper documentation at a later time but for me at least, in my testing, I was launching the game with:
+
+`-console -nogamepadui -novid +maxplayers 4 +map ez2_c1_1 -port 27015 +sv_lan 0`
+
+while having port 27015 forwarded in my firewall.
+
+then obviously you'd have to hand over your IP and port to your friend and have them connect in their console.
+
+If this all sounds like voodoo to you, yeah well, have fun with that.
+
+You could try to use this as a partial help for now:
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=2857508518
+
 # Some notes
 
 - Things like sprays don't work at the moment. 
