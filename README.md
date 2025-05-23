@@ -1,5 +1,14 @@
-# EZ2 COOP 
-My copy of a mishmash of the COOP mods for E:Z2 available here:
+<h1 align="center">EZ2 COOP</h1>
+
+<p align="center">
+  <img src="https://i.imgur.com/b23fF7O.jpeg" alt="Embedded Image" style="max-width: 100%; height: auto;">
+</p>
+
+# What is this?
+
+This is a mishmash of the COOP mods that were made for Entropy Zero 2.
+
+They are available here:
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=2856851374
 
@@ -7,7 +16,7 @@ https://github.com/met-nikita/ez2_coop_mapfixes
 
 https://github.com/met-nikita/source-sdk-2013
 
-# What do I need to do after downloading?
+# What do I need to do after downloading? / How do I install?
 
 - Make sure Entropy Zero 2 is installed 
 - Make sure folder is put into your `sourcemods` folder
