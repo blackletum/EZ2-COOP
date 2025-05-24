@@ -4,6 +4,21 @@
   <img src="https://i.imgur.com/b23fF7O.jpeg" alt="Embedded Image" style="max-width: 100%; height: auto;">
 </p>
 
+# Trailer
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=h4Um4YDCQII">
+    <img src="https://img.youtube.com/vi/h4Um4YDCQII/hqdefault.jpg" alt="Watch the video">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=h4Um4YDCQII">
+    <img src="https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube" alt="YouTube Video">
+  </a>
+</p>
+
+
 # What is this?
 
 This is a mishmash of the COOP mods that were made for Entropy Zero 2.
