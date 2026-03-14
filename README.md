@@ -1,3 +1,8 @@
+<h1 align="center">PLEASE READ:</h1>
+Best I can tell, this no longer works properly unless you're on beta version release-1.8 from Jan 24, 2025. I will try to look into it further but for now make sure your beta is set to that for co-op play.
+
+Original readme: 
+
 <h1 align="center">EZ2 COOP</h1>
 
 <p align="center">
