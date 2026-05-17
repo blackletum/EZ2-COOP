@@ -41,7 +41,6 @@ https://github.com/met-nikita/source-sdk-2013
 - Make sure Entropy Zero 2 is installed 
 - Make sure folder is put into your `sourcemods` folder
 - Verify folder name is simply `ez2coop`
-- Run the `OPEN_THIS_FIRST.bat` file
 - Restart Steam
 
 
@@ -50,13 +49,9 @@ So what I did here was take the newest changes from the source sdk 2013 repo and
 
 I then combined it with the ez2 coop mapfixes repo and the very out of date repo on the EZ2 workshop.
 
-On top of that, I wanted the ez2 coop folder to be available in the real sourcemods folder but also have a way for people to be able to run something similar to the batch file that was included in the workshop item.
+On top of that, I wanted the ez2 coop folder to be available in the real sourcemods folder.
 
-So what I did was set this up within the folder itself and made the new batch file based on the one from their steam workshop to be as user friendly as possible.
-
-So yeah the `OPEN_THIS_FIRST.bat` file will find your EZ2 folder and change your gameinfo to be hard-coded to mount your EZ2 assets. This file will need to be re-run if you move your EZ2 installation.
-
-If you have any changes that you'd like to make, please make a PR! My batch file change is a gigantic mess so I'd like that and any other changes that could make this a better experience.
+If you have any changes that you'd like to make, please make a PR! I'd like to see changes that could make this a better experience.
 
 Please also consider working on the linked repositories to make this project better for everyone! 
 
@@ -84,7 +79,6 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2857508518
 - X is bound by default for voice chat (yes voicechat works!) 
 - Y is bound for chat which also works! 
 - Nothing for the original game was compiled for Linux so I can't make a native Linux port as much as I would love to do so :( the amount of programming it would take to fix it for Linux is beyond me.
-- I tried to replace the icon for within Steam and when you launch the mod itself, but I can't quite figure it out for whatever reason. Help would be appreciated. 
 - I need to figure out how to change the "Start Server" dialog to show EZ2COOP as the name and to remove mounted HL2 maps that could cause a good bit of issues if you try to play (or just dumb ones like backgrounds)
 
 Oh and uhh
